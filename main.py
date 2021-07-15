@@ -1,7 +1,6 @@
 from importlib import import_module
 
 pss = ['ps1a', 'ps1b', 'ps1c']
-
 for ps in pss:
   print()
   print('*'*17)
